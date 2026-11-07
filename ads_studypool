@@ -1,0 +1,11 @@
+{
+  "is_ads_enabled": true,
+  "is_app_open_enabled": true,
+  "is_interstitial_enabled": true,
+  "is_native_enabled": true,
+  "app_open_ad_id": "ca-app-pub-6658570461438784/5412880176",
+  "interstitial_ad_id": "ca-app-pub-6658570461438784/8109723521",
+  "native_ad_id": "ca-app-pub-6658570461438784/4952173188",
+  "interstitial_interval_seconds": 60,
+  "interstitial_clicks_before_ad": 3
+}
